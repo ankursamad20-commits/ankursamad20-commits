@@ -2,10 +2,16 @@
 🎓 Computer Science Student specializing in Artificial Intelligence & Data Science<br>💡 Enthusiastic about DSA, Competitive Programming & Emerging Technologies<br>🌐 Currently Learning Full-Stack Web Development<br>🚀 Building projects that solve real-world problems<br>📚 Lifelong Learner with a Growth Mindset<br>✨ Fun Fact: The best solutions start with a simple "What if?"
 
 
-## 🚀 Languages and Tools I Use
 
-![My Skills](https://skillicons.dev/icons?i=c,cs,dart,html,vercel,gcp,pandas,numpy,django)
+
+## 🚀 My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,dart,html,vercel,gcp,django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ankursamad20-commits&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ankursamad20-commits&theme=darcula&hide_border=false)<br/>
