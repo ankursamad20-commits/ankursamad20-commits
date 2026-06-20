@@ -2,9 +2,10 @@
 🎓 Computer Science Student specializing in Artificial Intelligence & Data Science<br>💡 Enthusiastic about DSA, Competitive Programming & Emerging Technologies<br>🌐 Currently Learning Full-Stack Web Development<br>🚀 Building projects that solve real-world problems<br>📚 Lifelong Learner with a Growth Mindset<br>✨ Fun Fact: The best solutions start with a simple "What if?"
 
 
+## 🚀 Languages and Tools I Use
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=c,cs,dart,html,vercel,gcp,pandas,numpy,django)
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ankursamad20-commits&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ankursamad20-commits&theme=darcula&hide_border=false)<br/>
