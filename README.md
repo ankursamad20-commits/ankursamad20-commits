@@ -34,8 +34,9 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankursamad20-commits&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankursamad20-commits&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+</p>
 ---
 
 ## ✍️ Random Dev Quote
