@@ -1,15 +1,18 @@
+<div align=" center">
 <div align="center">
 
 # 💫 About Me
 
-🎓 Computer Science Student specializing in Artificial Intelligence & Data Science  
-💡 Enthusiastic about DSA, Competitive Programming & Emerging Technologies  
-🌐 Currently Learning Full-Stack Web Development  
-🚀 Building projects that solve real-world problems  
-📚 Lifelong Learner with a Growth Mindset  
+🎓 Computer Science Student specializing in Artificial Intelligence & Data Science<br>
+💡 Enthusiastic about DSA, Competitive Programming & Emerging Technologies<br>
+🌐 Currently Learning Full-Stack Web Development<br>
+🚀 Building projects that solve real-world problems<br>
+📚 Lifelong Learner with a Growth Mindset<br>
 ✨ Fun Fact: The best solutions start with a simple "What if?"
 
----
+</div>
+
+<hr>
 
 ## 🚀 My Skills
 
