@@ -71,5 +71,5 @@
 
 
 
-# WATCH MY SNAKE EATS MY GIT HUB
+# WATCH SNAKE EATS MY GIT HUB
 ![snake gif](https://github.com/ankursamad20-commits/ankursamad20-commits/blob/output/github-contribution-grid-snake-dark.svg)
