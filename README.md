@@ -39,12 +39,12 @@
 </p>
 ---
 
-## ✍️ Random Dev Quote
+## 🚀 Developer Mindset
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.;-+Cory+House" />
 
 ---
-
+---
 ## 🌍 My Digital Presence
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ankur-Samad/)
