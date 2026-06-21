@@ -56,6 +56,7 @@
 
 ---
 
+<!--
 ## 🔝 Top Contributed Repo
 
 <img src="https://github-contributor-stats.vercel.app/api?username=ankursamad20-commits&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -65,7 +66,7 @@
 <img src="https://komarev.com/ghpvc/?username=ankursamad20-commits&icon=0&color=9" />
 
 </div>
-
+-->
 
 
 
